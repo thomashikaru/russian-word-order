@@ -1,0 +1,255 @@
+{
+  "db_path": "artifacts/cooccurrence_no_pairs.sqlite",
+  "queries": [
+    {
+      "id": "s1",
+      "type": "sentence",
+      "sentence": "она любила его"
+    },
+    {
+      "id": "s1",
+      "type": "sentence",
+      "sentence": "она его любила"
+    },
+    {
+      "id": "s2",
+      "type": "sentence",
+      "sentence": "маме позвонила"
+    },
+    {
+      "id": "s2",
+      "type": "sentence",
+      "sentence": "позвонила маме"
+    },
+    {
+      "id": "s3",
+      "type": "sentence",
+      "sentence": "читает книгу"
+    },
+    {
+      "id": "s3",
+      "type": "sentence",
+      "sentence": "книгу читает"
+    },
+    {
+      "id": "s4",
+      "type": "sentence",
+      "sentence": "дождь идёт"
+    },
+    {
+      "id": "s4",
+      "type": "sentence",
+      "sentence": "идёт дождь"
+    },
+    {
+      "id": "s5",
+      "type": "sentence",
+      "sentence": "солнце светит"
+    },
+    {
+      "id": "s5",
+      "type": "sentence",
+      "sentence": "светит солнце"
+    },
+    {
+      "id": "s6",
+      "type": "sentence",
+      "sentence": "глаза чёрные"
+    },
+    {
+      "id": "s6",
+      "type": "sentence",
+      "sentence": "чёрные глаза"
+    },
+    {
+      "id": "s7",
+      "type": "sentence",
+      "sentence": "она ребёнка родила"
+    },
+    {
+      "id": "s7",
+      "type": "sentence",
+      "sentence": "она родила ребёнка"
+    },
+    {
+      "id": "s8",
+      "type": "sentence",
+      "sentence": "я вижу его"
+    },
+    {
+      "id": "s8",
+      "type": "sentence",
+      "sentence": "я его вижу"
+    },
+    {
+      "id": "s9",
+      "type": "sentence",
+      "sentence": "я знаю его"
+    },
+    {
+      "id": "s9",
+      "type": "sentence",
+      "sentence": "я его знаю"
+    },
+    {
+      "id": "s10",
+      "type": "sentence",
+      "sentence": "я посмотрел фильм"
+    },
+    {
+      "id": "s10",
+      "type": "sentence",
+      "sentence": "я фильм посмотрел"
+    },
+    {
+      "id": "s11",
+      "type": "sentence",
+      "sentence": "я приготовил ужин"
+    },
+    {
+      "id": "s11",
+      "type": "sentence",
+      "sentence": "я ужин приготовил"
+    },
+    {
+      "id": "s12",
+      "type": "sentence",
+      "sentence": "я хорошо спал"
+    },
+    {
+      "id": "s12",
+      "type": "sentence",
+      "sentence": "я спал хорошо"
+    },
+    {
+      "id": "s13",
+      "type": "sentence",
+      "sentence": "я купил билет"
+    },
+    {
+      "id": "s13",
+      "type": "sentence",
+      "sentence": "я билет купил"
+    },
+    {
+      "id": "s14",
+      "type": "sentence",
+      "sentence": "я это открыл"
+    },
+    {
+      "id": "s14",
+      "type": "sentence",
+      "sentence": "я открыл это"
+    },
+    {
+      "id": "s15",
+      "type": "sentence",
+      "sentence": "я это знаю"
+    },
+    {
+      "id": "s15",
+      "type": "sentence",
+      "sentence": "я знаю это"
+    },
+    {
+      "id": "s16",
+      "type": "sentence",
+      "sentence": "он его любил"
+    },
+    {
+      "id": "s16",
+      "type": "sentence",
+      "sentence": "он любил его"
+    },
+    {
+      "id": "s17",
+      "type": "sentence",
+      "sentence": "она его любила"
+    },
+    {
+      "id": "s17",
+      "type": "sentence",
+      "sentence": "она любила его"
+    },
+    {
+      "id": "s18",
+      "type": "sentence",
+      "sentence": "ветер дует"
+    },
+    {
+      "id": "s18",
+      "type": "sentence",
+      "sentence": "дует ветер"
+    },
+    {
+      "id": "s19",
+      "type": "sentence",
+      "sentence": "он водит машину"
+    },
+    {
+      "id": "s19",
+      "type": "sentence",
+      "sentence": "он машину водит"
+    },
+    {
+      "id": "s20",
+      "type": "sentence",
+      "sentence": "уметь водить машину"
+    },
+    {
+      "id": "s20",
+      "type": "sentence",
+      "sentence": "уметь машину водить"
+    },
+    {
+      "id": "s21",
+      "type": "sentence",
+      "sentence": "умеет водить машину"
+    },
+    {
+      "id": "s21",
+      "type": "sentence",
+      "sentence": "умеет машину водить"
+    },
+    {
+      "id": "s22",
+      "type": "sentence",
+      "sentence": "сын мой"
+    },
+    {
+      "id": "s22",
+      "type": "sentence",
+      "sentence": "мой сын"
+    },
+    {
+      "id": "s23",
+      "type": "sentence",
+      "sentence": "царство небесное"
+    },
+    {
+      "id": "s23",
+      "type": "sentence",
+      "sentence": "небесное царство"
+    },
+    {
+      "id": "s24",
+      "type": "sentence",
+      "sentence": "я люблю книги"
+    },
+    {
+      "id": "s24",
+      "type": "sentence",
+      "sentence": "я книги люблю"
+    },
+    {
+      "id": "s25",
+      "type": "sentence",
+      "sentence": "пить воду"
+    },
+    {
+      "id": "s25",
+      "type": "sentence",
+      "sentence": "воду пить"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "db_path": "artifacts/cooccurrence.sqlite",
+  "description": "Diverse test suite for conditional co-occurrence probabilities over Russian sentences.",
+  "queries": [
+    {
+      "id": "q01_common_pair",
+      "type": "pair",
+      "a": "что",
+      "b": "это",
+      "category": ["common", "likely_cooccurring"]
+    },
+    {
+      "id": "q02_common_pair",
+      "type": "pair",
+      "a": "не",
+      "b": "я",
+      "category": ["common", "likely_cooccurring"]
+    },
+    {
+      "id": "q03_function_words",
+      "type": "pair",
+      "a": "и",
+      "b": "в",
+      "category": ["common", "function_words"]
+    },
+    {
+      "id": "q04_mixed_pair",
+      "type": "pair",
+      "a": "завтра",
+      "b": "сегодня",
+      "category": ["medium_frequency", "semantic_relation"]
+    },
+    {
+      "id": "q05_rare_pair",
+      "type": "pair",
+      "a": "гиперболоид",
+      "b": "радиотелескоп",
+      "category": ["rare", "unlikely_cooccurring"]
+    },
+    {
+      "id": "q06_absent_like_pair",
+      "type": "pair",
+      "a": "абракадабра",
+      "b": "это",
+      "category": ["possibly_oov", "sanity_zero_case"]
+    },
+    {
+      "id": "q07_common_triple",
+      "type": "triple",
+      "a": "не",
+      "b": "я",
+      "c": "что",
+      "category": ["common", "likely_cooccurring"]
+    },
+    {
+      "id": "q08_common_triple",
+      "type": "triple",
+      "a": "и",
+      "b": "в",
+      "c": "на",
+      "category": ["common", "function_words"]
+    },
+    {
+      "id": "q09_dialog_triple",
+      "type": "triple",
+      "a": "ты",
+      "b": "я",
+      "c": "не",
+      "category": ["common", "dialogue_like"]
+    },
+    {
+      "id": "q10_temporal_triple",
+      "type": "triple",
+      "a": "сегодня",
+      "b": "вчера",
+      "c": "завтра",
+      "category": ["medium_frequency", "temporal_words"]
+    },
+    {
+      "id": "q11_rare_triple",
+      "type": "triple",
+      "a": "квантование",
+      "b": "фотон",
+      "c": "лазер",
+      "category": ["rare", "domain_specific"]
+    },
+    {
+      "id": "q12_low_overlap_triple",
+      "type": "triple",
+      "a": "император",
+      "b": "микроволновка",
+      "c": "галактика",
+      "category": ["unlikely_cooccurring", "stress_test"]
+    },
+    {
+      "id": "q13",
+      "type": "pair",
+      "a": "любила",
+      "b": "она",
+      "category": []
+    },
+    {
+      "id": "q14",
+      "type": "triple",
+      "a": "любила",
+      "b": "она",
+      "c": "его",
+      "category": []
+    },
+    {
+      "id": "q15",
+      "type": "pair",
+      "a": "его",
+      "b": "она",
+      "category": []
+    },
+    {
+      "id": "q16",
+      "type": "triple",
+      "a": "его",
+      "b": "она",
+      "c": "любила",
+      "category": []
+    }
+  ]
+}

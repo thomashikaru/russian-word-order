@@ -89,6 +89,17 @@ python run_query_tests.py \
   --mode sentence-chain
 ```
 
+Optional plotting (saves PDF overlays for sentence variants sharing the same `id` and annotates points with words):
+
+```bash
+pip install seaborn matplotlib
+python run_query_tests.py \
+  --input data/sentence_test_input.json \
+  --mode sentence-chain \
+  --plot-sentence-surprisal \
+  --plot-output-dir artifacts/plots
+```
+
 Output is JSON. For each sentence item, fields include:
 
 - `id`

@@ -1,0 +1,145 @@
+{
+  "db_path": "artifacts/cooccurrence_en.sqlite",
+  "queries": [
+    {
+      "id": "s1",
+      "type": "sentence",
+      "sentence": "big brown dog"
+    },
+    {
+      "id": "s1",
+      "type": "sentence",
+      "sentence": "brown big dog"
+    },
+    {
+      "id": "s2",
+      "type": "sentence",
+      "sentence": "throw ball him"
+    },
+    {
+      "id": "s2",
+      "type": "sentence",
+      "sentence": "throw him ball"
+    },
+    {
+      "id": "s3",
+      "type": "sentence",
+      "sentence": "gave her present"
+    },
+    {
+      "id": "s3",
+      "type": "sentence",
+      "sentence": "gave present her"
+    },
+    {
+      "id": "s4",
+      "type": "sentence",
+      "sentence": "crispy delicious"
+    },
+    {
+      "id": "s4",
+      "type": "sentence",
+      "sentence": "delicious crispy"
+    },
+    {
+      "id": "s5",
+      "type": "sentence",
+      "sentence": "sweet juicy"
+    },
+    {
+      "id": "s5",
+      "type": "sentence",
+      "sentence": "juicy sweet"
+    },
+    {
+      "id": "s6",
+      "type": "sentence",
+      "sentence": "interesting unexpected"
+    },
+    {
+      "id": "s6",
+      "type": "sentence",
+      "sentence": "unexpected interesting"
+    },
+    {
+      "id": "s7",
+      "type": "sentence",
+      "sentence": "blue deep"
+    },
+    {
+      "id": "s7",
+      "type": "sentence",
+      "sentence": "deep blue"
+    },
+    {
+      "id": "s8",
+      "type": "sentence",
+      "sentence": "slept deeply"
+    },
+    {
+      "id": "s8",
+      "type": "sentence",
+      "sentence": "deeply slept"
+    },
+    {
+      "id": "s9",
+      "type": "sentence",
+      "sentence": "he snored loudly"
+    },
+    {
+      "id": "s9",
+      "type": "sentence",
+      "sentence": "he loudly snored"
+    },
+    {
+      "id": "s10",
+      "type": "sentence",
+      "sentence": "gazed longingly"
+    },
+    {
+      "id": "s10",
+      "type": "sentence",
+      "sentence": "longingly gazed"
+    },
+    {
+      "id": "s11",
+      "type": "sentence",
+      "sentence": "bacon and eggs"
+    },
+    {
+      "id": "s11",
+      "type": "sentence",
+      "sentence": "eggs and bacon"
+    },
+    {
+      "id": "s12",
+      "type": "sentence",
+      "sentence": "giant red ball"
+    },
+    {
+      "id": "s12",
+      "type": "sentence",
+      "sentence": "red giant ball"
+    },
+    {
+      "id": "s13",
+      "type": "sentence",
+      "sentence": "quickly left"
+    },
+    {
+      "id": "s13",
+      "type": "sentence",
+      "sentence": "left quickly"
+    },
+    {
+      "id": "s14",
+      "type": "sentence",
+      "sentence": "salt pepper"
+    },
+    {
+      "id": "s14",
+      "type": "sentence",
+      "sentence": "pepper salt"
+    }
+  ]
+}
