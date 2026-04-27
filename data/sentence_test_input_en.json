@@ -140,6 +140,26 @@
       "id": "s14",
       "type": "sentence",
       "sentence": "pepper salt"
+    },
+    {
+      "id": "s15",
+      "type": "sentence",
+      "sentence": "green giant"
+    },
+    {
+      "id": "s15",
+      "type": "sentence",
+      "sentence": "giant green"
+    },
+    {
+      "id": "s16",
+      "type": "sentence",
+      "sentence": "big bad"
+    },
+    {
+      "id": "s16",
+      "type": "sentence",
+      "sentence": "bad big"
     }
   ]
 }

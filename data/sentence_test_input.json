@@ -250,6 +250,46 @@
       "id": "s25",
       "type": "sentence",
       "sentence": "воду пить"
+    },
+    {
+      "id": "s26",
+      "type": "sentence",
+      "sentence": "я ему помог"
+    },
+    {
+      "id": "s26",
+      "type": "sentence",
+      "sentence": "я помог ему"
+    },
+    {
+      "id": "s27",
+      "type": "sentence",
+      "sentence": "я играю футбол"
+    },
+    {
+      "id": "s27",
+      "type": "sentence",
+      "sentence": "я футбол играю"
+    },
+    {
+      "id": "s28",
+      "type": "sentence",
+      "sentence": "он русски говорит"
+    },
+    {
+      "id": "s28",
+      "type": "sentence",
+      "sentence": "он говорит русски"
+    },
+    {
+      "id": "s29",
+      "type": "sentence",
+      "sentence": "я встретил друга"
+    },
+    {
+      "id": "s29",
+      "type": "sentence",
+      "sentence": "я друга встретил"
     }
   ]
 }
